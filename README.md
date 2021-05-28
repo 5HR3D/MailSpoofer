@@ -17,3 +17,5 @@ This repo contains MailSpoofer's web-application's files. Check for hosting serv
 ## Note
 Check out the live demo by clicking <a href="https://5hrmailspoofer.000webhostapp.com">here</a>.<br><br/>
 Check ot the terminal client for this mail spoofer https://github.com/5HR3D/MailSpooferClient 
+## Disclaimer
+This is  only for educational purposes. I will not be held responsible for any illegal misuse of my project.
